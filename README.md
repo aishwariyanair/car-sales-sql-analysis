@@ -1,4 +1,4 @@
-# Car Sales Data Analysis using SQL
+# Automobile Market Analysis
 
 ## 📊 **Project Overview**
 This project performs exploratory data analysis on a car dataset using SQL to understand pricing trends, brand performance, fuel efficiency, and vehicle specifications.
@@ -250,7 +250,7 @@ ORDER BY avg_horsepower DESC;
 - Statistical analysis using STDDEV
 
   
-
+---
 
 📈 Insights & Conclusions### 
 • The average car price is around $32,804, which shows that most cars fall into the mid-range segment.
@@ -265,7 +265,7 @@ ORDER BY avg_horsepower DESC;
 
 
 
-
+---
 
 ✍️ Author
 This project  created by Aishwarya Nair, a passionate data analyst with a focus on SQL and data-driven insights. Feel free to connect with me for collaboration, inquiries, or networking!
