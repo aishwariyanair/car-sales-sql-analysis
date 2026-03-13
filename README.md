@@ -249,6 +249,8 @@ ORDER BY avg_horsepower DESC;
 - Common Table Expressions (CTE)
 - Statistical analysis using STDDEV
 
+  
+
 
 📈 Insights & Conclusions### 
 • The average car price is around $32,804, which shows that most cars fall into the mid-range segment.
@@ -260,6 +262,8 @@ ORDER BY avg_horsepower DESC;
 • SUVs and sports cars tend to have higher horsepower, indicating stronger performance vehicles in these categories.
 
 • Some cars provide better performance per price, making them high-value options for buyers.
+
+
 
 
 
