@@ -1,11 +1,11 @@
 # Automobile Market Analysis
 
-## 📊 **Project Overview**
+##  **Project Overview**
 This project performs exploratory data analysis on a car dataset using SQL to understand pricing trends, brand performance, fuel efficiency, and vehicle specifications.
 The goal is to extract meaningful insights that could help automobile companies, dealerships, and analysts understand market patterns and product positioning.
 
 
-## 📈 **Dataset Overview**
+##  **Dataset Overview**
 
 The dataset contains information about various car models including:
 
@@ -33,9 +33,9 @@ MPG_City – Fuel efficiency in city driving
 
 MPG_Highway – Fuel efficiency on highways
 
-## 📊 SQL Analysis Queries
+##  SQL Analysis Queries
 
-## 📝 **SQL Queries Answered**
+##  **SQL Queries Answered**
 
 The following SQL queries were executed to answer specific business questions:
 
