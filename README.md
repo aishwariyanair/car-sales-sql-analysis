@@ -240,7 +240,7 @@ GROUP BY Type
 ORDER BY avg_horsepower DESC;
 ```
 
-## 🚀 Key SQL Concepts Used
+##  Key SQL Concepts Used
 
 - Aggregations (AVG, COUNT, MIN, MAX)
 - GROUP BY and HAVING
@@ -252,7 +252,7 @@ ORDER BY avg_horsepower DESC;
   
 ---
 
-📈 Insights & Conclusions### 
+ Insights & Conclusions### 
 • The average car price is around $32,804, which shows that most cars fall into the mid-range segment.
 
 • Luxury brands like Mercedes-Benz, Porsche, and Jaguar dominate the high-price category in the dataset.
@@ -267,7 +267,7 @@ ORDER BY avg_horsepower DESC;
 
 ---
 
-✍️ Author
+Author
 This project  created by Aishwarya Nair, a passionate data analyst with a focus on SQL and data-driven insights. Feel free to connect with me for collaboration, inquiries, or networking!
 
 GitHub: https://github.com/aishwariyanair
